@@ -18,7 +18,6 @@ A robust machine learning pipeline designed to classify local products (Mahalli)
 * **Machine Learning:** `XGBoost`
 * **Data Handling:** `Pandas` & `NumPy`
 
-[Image of XGBoost architecture diagram]
 
 ---
 
@@ -40,8 +39,6 @@ The model was tested on a hold-out validation set of 120 samples. The results de
 | **Precision** | 0.96 | 0.89 | 0.93 |
 | **Recall** | 0.88 | 0.97 | 0.93 |
 | **F1-Score** | 0.92 | 0.93 | 0.92 |
-
-[Image of confusion matrix for binary classification]
 
 ---
 
